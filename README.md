@@ -1,3 +1,5 @@
 # 5-question-game
 
-A programming example of python for a 5 question game for my nephew in high school.
+Python programming example of a game involving 5 questions.
+
+For my nephew in high school. Ludicrous speed!
